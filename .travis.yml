@@ -19,4 +19,4 @@ after_success:
   - docker push johny2000uwb/multi-client
   - docker push johny2000uwb/multi-nginx
   - docker push johny2000uwb/multi-server
-  - docker push ohny2000uwb/multi-worker
+  - docker push johny2000uwb/multi-worker
